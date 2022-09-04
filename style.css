@@ -213,7 +213,7 @@ button {
 
     .container input[type='text'],input[type='number'] {
         width: 22em;
-        text-transform: capitalize;
+        text-transform: UPPERCASE;
         height: 2rem;
         /* margin: 5px; */
         text-align: center;
