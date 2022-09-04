@@ -187,7 +187,7 @@ button {
         justify-content: center;
         align-items: center;
         /* background: #d7dde2; */
-        position: fixed;
+        position: static;
     }
 
     .card-btn {
